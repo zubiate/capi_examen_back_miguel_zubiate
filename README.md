@@ -4,8 +4,8 @@
 
 ## Installation
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-    cd laravel-realworld-example-app
+    git clone https://github.com/zubiate/capi_examen_back_miguel_zubiate.git
+    cd capi_examen_back_miguel_zubiate
     composer install
     cp .env.example .env
     php artisan key:generate
